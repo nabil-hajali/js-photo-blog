@@ -35,6 +35,8 @@ fetch(endpoint)
     console.log(markup);
     rowEl.insertAdjacentHTML('beforeend', markup)
 
+
+
     
         })
         
